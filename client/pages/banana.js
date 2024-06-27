@@ -1,5 +1,3 @@
-const banana = () => {
-    return <h1>Banana JS</h1>
-}
-
-export default banana;
+export default () => {
+  return <h1>Banana</h1>;
+};
